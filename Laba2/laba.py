@@ -24,6 +24,7 @@ print(Tcp)
 print (sigm)
 eps = sigm / (20 * Tcp)
 print(eps)
+eps 
 # # print(sigm / (0.005 * Tcp))
 # # print(10/7.5)
 # print((5 * 60 + 30) / Tcp)

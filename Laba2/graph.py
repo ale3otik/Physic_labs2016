@@ -59,8 +59,8 @@ plt.grid(True , linewidth=0.3);
 plt.title("k = " + str(k)  + " " + "b = " + str(b))
 # plt.show()
 print("lool")
-print(k);
-print(b);
+# print(k);
+# print(b);
 #print(1 / k)
 #print((1/k) * 4 * (3.14**2))
 print (sqrt((b / k) * 12))

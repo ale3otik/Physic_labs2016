@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1458586248 "Laba2.tex" "Laba2.pdf" "Laba2" 1458586248
+["pdflatex"] 1458593297 "Laba2.tex" "Laba2.pdf" "Laba2" 1458593297
   "./figure.png" 1458585727 80310 de69659c980e0f7583327151bd89773b ""
   "./phys_mtn.png" 1458573377 69239 edb97514edaeb9f942d7a9d1fea7bb44 ""
   "/Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1441725086 3308 eee81981029f67083258db36df06e523 ""
@@ -86,11 +86,11 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1441525720 3849858 17bab0f7112664b5d28b096495543ca3 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "Laba2.aux" 1458586248 1469 bde1b19732bf04866431399e84731cae ""
-  "Laba2.tex" 1458586245 8486 0374fc510fc81e221df5f45feddae27d ""
+  "Laba2.aux" 1458593297 1469 bde1b19732bf04866431399e84731cae ""
+  "Laba2.tex" 1458593296 9163 ec8ea2202c54733a38a452ffeee2fa2e ""
   "figure.png" 1458585727 80310 de69659c980e0f7583327151bd89773b ""
   "phys_mtn.png" 1458573377 69239 edb97514edaeb9f942d7a9d1fea7bb44 ""
   (generated)
   "Laba2.log"
-  "Laba2.pdf"
   "Laba2.aux"
+  "Laba2.pdf"

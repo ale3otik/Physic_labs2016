@@ -137,5 +137,19 @@
             \includegraphics[width=5in]{figure.png} \\ Рис. 2: график $[T^2 a ] (a^2)$.
         \end{center}
         Аппроксимирующая по методу наименьших квадратов прямая $y = kx + b$ , где $k = 4.1124$, $b = 0.3305$.
-    \end{enumerate}
+        \\
+        Используя формулу для рассчета момента инерции тонкого стержня:
+        \begin{equation}
+              T = 2 \pi \sqrt{\frac{a^2 + \frac{l^2}{12}}{ag}}     
+        \end{equation}
+        получим: 
+        \begin{equation}
+              T^2a = \frac{4 \pi^2 } {g} a^2 + \frac{\pi^2 l^2}{3 g}
+        \end{equation}
+        $\implies \frac{g}{4\pi^2} = \frac{1}{k} \approx 0.243 \implies g \approx 9.59 [\frac{m}{c^2}]$ \\
+        $l = \sqrt{\frac{12b}{k}} \approx 0.982[m]$ \\
+        % Рассчет погрешности: \\
+        % \indent $\sigma_{k} \approx \frac{1}{\sqrt{n}} \sqrt{}$
+        
+    \end{enumerate} 
 \end{document}
