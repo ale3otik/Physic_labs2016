@@ -1,10 +1,10 @@
 from math import *
-x = [31.43 , 31.72, 31.56 , 31.62 , 31.49 , 31.53]
-# ln = ""
+# x = [31.43 , 31.72, 31.56 , 31.62 , 31.49 , 31.53]
+x = [31.56 , 31.34 , 31.6 , 31.62 , 31.63 , 31.54]
+ln = ""
 # for v in x:
 #     ln += "&" + str(v)
 # print(ln)
-# x = [31.56 , 31.34 , 31.6 , 31.62 , 31.63 , 31.54]
 
 s = 0
 for i in x:
@@ -19,6 +19,7 @@ for p in xp:
     sigm += p**2
 sigm = sqrt(sigm / 5)
 
+print(tcp)
 print(Tcp)
 print (sigm)
 eps = sigm / (20 * Tcp)

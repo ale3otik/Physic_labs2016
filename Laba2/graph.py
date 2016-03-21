@@ -4,6 +4,17 @@ from math import sqrt
 a = np.arange(4, 52, 4)
 tlool = [53.87 , 43.19 , 36.68 , 33.28 , 31.69 , 30.90 , 30.57 , 30.68 , 31.13 , 31.31 , 31.85 , 32.69]
 T = [x / 20 for x in tlool]
+# linex = ""
+liney = ""
+# lc = "|c|"
+for i in range(len(T)):
+#     linex += '& ' + str(a[i]);
+    liney += '& ' + str(round(T[i] , 3));
+#     lc += "c|"
+
+# print(linex)
+print(liney)
+# print(lc)
 # plt.title("T(a)")
 # plt.plot(a,T,'.-r')
 # plt.show()
@@ -39,7 +50,7 @@ I2 = [b + k*x for x in a2]
 plt.plot(a2, I2, '-r')
 plt.grid(True , linewidth=0.3);
 plt.title("k = " + str(k)  + " " + "b = " + str(b))
-plt.show()
+# plt.show()
 print("lool")
 #print(1 / k)
 #print((1/k) * 4 * (3.14**2))
