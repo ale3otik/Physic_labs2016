@@ -134,11 +134,11 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm
+OUTPUT Laba1.pdf
+INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT trif2.png
 INPUT ./trif2.png
-OUTPUT Laba1.pdf
 INPUT ./trif2.png
-INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
 INPUT /Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT disk.png

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.6)  21 MAR 2016 18:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.6)  21 MAR 2016 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -322,142 +322,145 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-<trif2.png, id=1, 891.33pt x 500.87125pt>
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<trif2.png, id=15, 891.33pt x 500.87125pt>
 File: trif2.png Graphic file (type png)
  <use trif2.png>
 Package pdftex.def Info: trif2.png used on input line 62.
 (pdftex.def)             Requested size: 361.34999pt x 203.05809pt.
- [1
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./t
-rif2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 96--103
+ [2 <./trif2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--103
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--103
+Underfull \hbox (badness 10000) in paragraph at lines 95--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--108
+Underfull \hbox (badness 10000) in paragraph at lines 95--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--127
+Underfull \hbox (badness 10000) in paragraph at lines 95--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--127
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--127
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--127
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--135
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--135
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
 
  []
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 144.
+Underfull \hbox (badness 10000) in paragraph at lines 128--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--134
+
+ []
+
+[3]
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 143.
 
 Missing character: There is no ñ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--147
+Underfull \hbox (badness 10000) in paragraph at lines 139--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--147
-
- []
-
-[3
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 148--164
+Underfull \hbox (badness 10000) in paragraph at lines 139--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--177
+Underfull \hbox (badness 10000) in paragraph at lines 147--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
 
  []
 
 <disk.png, id=30, 397.485pt x 402.50375pt>
 File: disk.png Graphic file (type png)
  <use disk.png>
-Package pdftex.def Info: disk.png used on input line 178.
+Package pdftex.def Info: disk.png used on input line 177.
 (pdftex.def)             Requested size: 180.67499pt x 182.96138pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<plot.png, id=31, 638.385pt x 465.74pt>
+ [4]
+<plot.png, id=34, 638.385pt x 465.74pt>
 File: plot.png Graphic file (type png)
  <use plot.png>
-Package pdftex.def Info: plot.png used on input line 212.
+Package pdftex.def Info: plot.png used on input line 211.
 (pdftex.def)             Requested size: 361.34999pt x 263.62683pt.
- [4 <./disk.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[5 <./plot.png>] (./Laba1.aux) ) 
+[5 <./disk.png> <./plot.png>] [6] (./Laba1.aux) ) 
 Here is how much of TeX's memory you used:
  5116 strings out of 493089
  67948 string characters out of 6134843
- 137579 words of memory out of 5000000
+ 134579 words of memory out of 5000000
  8513 multiletter control sequences out of 15000+600000
  18058 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,9n,26p,648b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/d
-vips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/s
-fbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfb
-x1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1
-200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm144
-0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm2074.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.pf
-b>
-Output written on Laba1.pdf (5 pages, 409773 bytes).
+{/usr/local/texlive/2015/texmf
+-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
+public/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/c
+m-super/sfrm2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-
+super/sfti1200.pfb>
+Output written on Laba1.pdf (6 pages, 410018 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
