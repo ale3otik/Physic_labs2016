@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.6)  21 MAR 2016 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.6)  21 MAR 2016 18:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -295,147 +295,121 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31     \newline
-                  \newline
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31     \newline \newline
-                          
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 33--39
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--39
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--39
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 <trif2.png, id=1, 891.33pt x 500.87125pt>
 File: trif2.png Graphic file (type png)
  <use trif2.png>
-Package pdftex.def Info: trif2.png used on input line 63.
+Package pdftex.def Info: trif2.png used on input line 62.
 (pdftex.def)             Requested size: 361.34999pt x 203.05809pt.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./t
 rif2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 97--104
+Underfull \hbox (badness 10000) in paragraph at lines 96--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--104
+Underfull \hbox (badness 10000) in paragraph at lines 96--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--104
+Underfull \hbox (badness 10000) in paragraph at lines 96--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--109
+Underfull \hbox (badness 10000) in paragraph at lines 104--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--136
+Underfull \hbox (badness 10000) in paragraph at lines 129--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--136
+Underfull \hbox (badness 10000) in paragraph at lines 129--135
 
  []
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 145.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 144.
 
 Missing character: There is no ñ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--148
+Underfull \hbox (badness 10000) in paragraph at lines 140--147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--148
+Underfull \hbox (badness 10000) in paragraph at lines 140--147
 
  []
 
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 149--165
+Underfull \hbox (badness 10000) in paragraph at lines 148--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--178
+Underfull \hbox (badness 10000) in paragraph at lines 173--177
 
  []
 
 <disk.png, id=30, 397.485pt x 402.50375pt>
 File: disk.png Graphic file (type png)
  <use disk.png>
-Package pdftex.def Info: disk.png used on input line 179.
+Package pdftex.def Info: disk.png used on input line 178.
 (pdftex.def)             Requested size: 180.67499pt x 182.96138pt.
 
 
@@ -447,10 +421,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <plot.png, id=31, 638.385pt x 465.74pt>
 File: plot.png Graphic file (type png)
  <use plot.png>
-Package pdftex.def Info: plot.png used on input line 213.
+Package pdftex.def Info: plot.png used on input line 212.
 (pdftex.def)             Requested size: 361.34999pt x 263.62683pt.
  [4 <./disk.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 215--217
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
 
  []
 
