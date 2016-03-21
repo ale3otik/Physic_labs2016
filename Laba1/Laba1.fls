@@ -1,4 +1,4 @@
-PWD /Users/alex/Desktop/4sem/Physic/Labi/Laba1
+PWD /Users/alex/Desktop/4sem/Physic/Labi/Physic_labs2016/Laba1
 INPUT /usr/local/texlive/2015/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -109,7 +109,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT /Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
@@ -141,6 +140,7 @@ OUTPUT Laba1.pdf
 INPUT ./trif2.png
 INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
+INPUT /Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT disk.png
 INPUT ./disk.png
 INPUT ./disk.png

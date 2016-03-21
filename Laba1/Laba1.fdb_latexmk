@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1458571554 "Laba1.tex" "Laba1.pdf" "Laba1" 1458571555
+["pdflatex"] 1458572894 "Laba1.tex" "Laba1.pdf" "Laba1" 1458572894
   "./disk.png" 1456784002 86414 716ca4fc29acaa95e63da667a19250cc ""
   "./plot.png" 1458566000 97888 ec96160d06483c7a0aefee495691729b ""
   "./trif2.png" 1456264699 177411 875bed6c6e42e48ac322b61fb6d239cb ""
@@ -95,12 +95,12 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1441525720 3849858 17bab0f7112664b5d28b096495543ca3 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "Laba1.aux" 1458571555 2117 0a1a204717798d03c5867033f7feba92 ""
-  "Laba1.tex" 1458571554 15701 e3d918b011f228f6a45d3c1ff9baf19e ""
+  "Laba1.aux" 1458572841 2117 0a1a204717798d03c5867033f7feba92 ""
+  "Laba1.tex" 1458572894 15664 cf5d8d976eabc45b2834f0bb1062c9a3 ""
   "disk.png" 1456784002 86414 716ca4fc29acaa95e63da667a19250cc ""
   "plot.png" 1458566000 97888 ec96160d06483c7a0aefee495691729b ""
   "trif2.png" 1456264699 177411 875bed6c6e42e48ac322b61fb6d239cb ""
   (generated)
+  "Laba1.pdf"
   "Laba1.log"
   "Laba1.aux"
-  "Laba1.pdf"
