@@ -134,6 +134,9 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT figure.png
+INPUT ./figure.png
+INPUT ./figure.png
 INPUT Laba2.aux
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
