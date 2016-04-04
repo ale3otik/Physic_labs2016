@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from math import sqrt
+from math import *
 a = np.arange(4, 52, 4)
 tlool = [53.87 , 43.19 , 36.68 , 33.28 , 31.69 , 30.90 , 30.57 , 30.68 , 31.13 , 31.31 , 31.85 , 32.69]
 T = [x / 20 for x in tlool]
@@ -35,16 +35,20 @@ plt.plot(a2 ,T2a , 'o--g')
 b = 0;
 sx = 0
 sy = 0
+sy2 = 0
 sx2 = 0
 n = len(a2)
 for i in a2:
     sx += i
     sx2 += i**2
 xcp = sx / n
+xcp2 = sx2/n
 
-for i in T2a:
-    sy += i
+for y in T2a:
+    sy += y
+    sy2 += y**2
 ycp = sy / n
+ycp2 =  sy2 / n
 
 
 smult = 0;
@@ -64,3 +68,17 @@ print("lool")
 #print(1 / k)
 #print((1/k) * 4 * (3.14**2))
 print (sqrt((b / k) * 12))
+sigmk = 1 / sqrt(n) * sqrt((ycp2 - ycp**2) / (xcp2 - xcp**2) - k**2)
+sigmb = sigmk * sqrt(xcp2 - xcp**2)
+
+print("__")
+print(sigmk)
+print(sigmb)
+
+print("__")
+print(4 * pi**2 * 0.0037)
+print(0.5 * sqrt(k / (12 * b)) * (12 * k * sigmb + 12 * b * sigmk) / (k**2))
+
+print("__")
+print(0.21 + 1 / (0.21 * 12 ))
+
