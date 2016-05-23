@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1464038374 "elastic_modulus.tex" "elastic_modulus.pdf" "elastic_modulus" 1464038375
+["pdflatex"] 1464039526 "elastic_modulus.tex" "elastic_modulus.pdf" "elastic_modulus" 1464039527
   "./graph.png" 1464034120 26662 743385eff022f3569ef34bf7bc39a64c ""
   "./tool.png" 1464023402 23927 b60cd8b9025cc0489371c2543a0907ad ""
   "/Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1459806491 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
@@ -90,11 +90,11 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1441525720 3849858 17bab0f7112664b5d28b096495543ca3 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "elastic_modulus.aux" 1464038375 229 5ffe0a0c9bbd74b5bf407de32e7ac82d ""
-  "elastic_modulus.tex" 1464038373 6969 66dbbebef55047233b0447a4250c3ed8 ""
+  "elastic_modulus.aux" 1464039527 229 5ffe0a0c9bbd74b5bf407de32e7ac82d ""
+  "elastic_modulus.tex" 1464039526 6965 b275d3f95bc1f815820726ae2d56653b ""
   "graph.png" 1464034120 26662 743385eff022f3569ef34bf7bc39a64c ""
   "tool.png" 1464023402 23927 b60cd8b9025cc0489371c2543a0907ad ""
   (generated)
   "elastic_modulus.pdf"
-  "elastic_modulus.aux"
   "elastic_modulus.log"
+  "elastic_modulus.aux"
