@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.6)  22 MAR 2016 00:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.6)  30 APR 2016 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Laba1.tex
-(./Laba1.tex
+**sring.tex
+(./sring.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -197,27 +197,31 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-(./Laba1.aux
+
+LaTeX Warning: Unused global option(s):
+    [8pt].
+
+(./sring.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-\openout1 = `Laba1.aux'.
+\openout1 = `sring.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -285,12 +289,12 @@ e
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -298,169 +302,37 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 29--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-[1
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<trif2.png, id=15, 891.33pt x 500.87125pt>
-File: trif2.png Graphic file (type png)
- <use trif2.png>
-Package pdftex.def Info: trif2.png used on input line 59.
-(pdftex.def)             Requested size: 361.34999pt x 203.05809pt.
- [2 <./trif2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--132
-
- []
-
-[3]
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 141.
-
-Missing character: There is no ñ in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--161
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--174
-
- []
-
-<disk.png, id=30, 397.485pt x 402.50375pt>
-File: disk.png Graphic file (type png)
- <use disk.png>
-Package pdftex.def Info: disk.png used on input line 175.
-(pdftex.def)             Requested size: 108.405pt x 109.77068pt.
- [4]
-<plot.png, id=34, 638.385pt x 465.74pt>
-File: plot.png Graphic file (type png)
- <use plot.png>
-Package pdftex.def Info: plot.png used on input line 209.
-(pdftex.def)             Requested size: 289.07999pt x 210.9029pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
-
- []
-
-[5 <./disk.png> <./plot.png>] (./Laba1.aux) ) 
+<string_img.png, id=1, 520.94624pt x 313.17pt>
+File: string_img.png Graphic file (type png)
+ <use string_img.png>
+Package pdftex.def Info: string_img.png used on input line 62.
+(pdftex.def)             Requested size: 252.94499pt x 152.05928pt.
+ [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./strin
+g_img.png>] (./sring.aux) ) 
 Here is how much of TeX's memory you used:
- 5116 strings out of 493089
- 67948 string characters out of 6134843
- 134579 words of memory out of 5000000
- 8513 multiletter control sequences out of 15000+600000
- 18058 words of font info for 54 fonts, out of 8000000 for 9000
+ 5093 strings out of 493089
+ 67673 string characters out of 6134843
+ 132555 words of memory out of 5000000
+ 8496 multiletter control sequences out of 15000+600000
+ 13205 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,9n,26p,648b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dis
-t/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/c
-m-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-
-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-su
-per/sfrm2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-supe
-r/sfti1200.pfb>
-Output written on Laba1.pdf (5 pages, 409786 bytes).
+ 37i,6n,26p,648b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/
+cm-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-s
+uper/sfbx1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super
+/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/s
+frm1728.pfb>
+Output written on sring.pdf (1 page, 230771 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

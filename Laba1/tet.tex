@@ -1,0 +1,31 @@
+\documentclass[12pt]{article}
+% Эта строка — комментарий, она не будет показана в выходном файле
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc} % Включаем поддержку UTF8
+\usepackage[russian]{babel}  % Включаем пакет для поддержки русского языка
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{amssymb}
+% \usepackage[dvips]{graphicx}
+% \graphicspath{{noiseimages/}}
+\usepackage[pdftex]{graphicx}
+
+\hoffset=0mm
+\voffset=0mm
+\textwidth=180mm        % ширина текста
+\oddsidemargin=-6.5mm   % левое поле 25.4 - 5.4 = 20 мм
+\textheight=240mm       % высота текста 297 (A4) - 40
+\topmargin=-15.4mm      % верхнее поле (10мм)
+\headheight=5mm      % место для колонтитула
+\headsep=5mm          % отступ после колонтитула
+\footskip=8mm         % отступ до нижнего колонтитула
+
+\makeatletter
+\newcommand{\rmnum}[1]{\romannumeral #1}
+\newcommand{\Rmnum}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+
+\begin{document}
+    % $\romannumeral 6$
+    \Rmnum{1000}
+\end{document}

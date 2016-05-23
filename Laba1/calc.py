@@ -1,5 +1,5 @@
 
-# from math import *
+from math import *
 
 # m =  (0.448 + 0.58)
 
@@ -7,6 +7,9 @@
 # r = 0.03
 R = 0.1146
 M = 0.4482
+M2 = 566.4 + 565.3
+R2 = 8.3 / 2.0
+
 # dM = 0.0003
 # z = 2.14
 # dr = 0.0005
@@ -16,7 +19,7 @@ M = 0.4482
 # print(T)
 # print(k)
 # dk = 9.8/(4 * 3.14 * 3.14) * sqrt(((r*dR/z)** 2) + ((R * dr / z) ** 2) + ((R * r * dz)/(z**2))**2);
-k = (9.8 * 0.1146 * 0.03) / (4 * 3.14 * 3.14 * 2.14)
+k = (9.8 * R * 0.03) / (4 * pi**2 * 2.14)
 I0 = R**2 * M / 2
 
 
@@ -53,7 +56,7 @@ X = [(i/100)**2 for i in K]
 t = [50.532,50.686,52.048,55.297,57.383,61.748,66.124,76.614]
 # # print((t[0]/19)**2 * k * ((2*0.5664 + 0.4482))
 T = [i/19 for i in t]
-I = [(tc**2) * k * (2*0.5664 + 0.4482) - I0 for tc in T]
+I = [(tc**2) * k * (M2 + M) - I0 for tc in T]
 
 b = 0;
 sx = 0
@@ -96,16 +99,16 @@ dK = 0;
 
 Imax = ((0.088)**2 * (0.5664 + 0.5653)) / (8.0);
 Imin = ((0.078)**2 * (0.5664 + 0.5653)) / (8.0);
-print( (Imax + Imin) / 2.0 )
-print((Imax - Imin) / 2.0 )
+print((Imax + Imin) / 2.0)
+print((Imax - Imin) / 2.0)
 print (0.5664 + 0.5653)
 
 # plt.xlabel("$h^2 , [m^2]$", size=14)
 # plt.ylabel('$I(h^2) , [kg * m^2]$', size=14)
-# plt.plot(X, I, '-g', linestyle='--' , marker='o')
-# plt.plot(X, I2, '-r')
+plt.plot(X, I, '-g', linestyle='--' , marker='o')
+plt.plot(X, I2, '-r')
 # plt.grid(True , linewidth=0.3,);
-# # plot(K, N, '-r')
-# plt.show()
+# plot(K, N, '-r')
+plt.show()
 
 # print((0.00409896 - 0.00154) / 0.00242)
