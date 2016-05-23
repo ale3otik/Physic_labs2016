@@ -62,6 +62,8 @@
     \end{center}
     
     \textbf{Ход работы:}\\
+    \begin{enumerate}
+    \item 
          Будем нагружать струну различными массами, и измерять частоты нескольких гармоник стоячих волн.
     Так как ожидаемая зависимость частоты $f\left(n\right)$ линейная, то построим аппроксимирующие по методу наименьших квадратов прямые вида $f = kn + b$ для каждой из нагрузок струны.
     Произведем оценку ошибки:
@@ -76,9 +78,18 @@
     \begin{equation}
             \sigma_{b} = \sigma_{k} \sqrt{\langle x^2 \rangle - \langle x \rangle ^2} 
     \end{equation}
+
+    После этого найдем $u$ - скорость распространения поперечных волн, 
+    $f_n = \frac{u}{2L} n \implies u = 2Lk$ , где $k$ - коэффициент наклона прямой $f(n)$ , 
+    тогда погрешность определяется как : 
+    \begin{equation}
+        \left(\frac{\sigma_u}{u} \right)^2 = \left(\frac{\sigma_L}{L}\right)^2 + \left(\frac{\sigma_k}{k}\right)^2
+    \end{equation}
+
+    Так как $L$ измерена достаточно точно, то считаем $\sigma_L \approx 0$, тогда $\sigma_k = \sigma_u$
     
     \begin{itemize}
-        \item m = 1042.3
+        \item m = 1042.3g
             % \begin{table}[h]
                     % \caption{$\nu(n)$}
                     \begin{center}
@@ -86,19 +97,19 @@
                             \hline 
                                 $n$ & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 \\
                             \hline
-                                $\nu_n$ [Гц] &0&127.3&255.7&383.7&512.3&644.2&775.3&904.7\\
+                                $f_n$ [Гц] &0&127.3&255.7&383.7&512.3&644.2&775.3&904.7\\
                             \hline
                     \end{tabular}
                     \end{center}
             % \end{table}
 
-        \indent $k \approx 129.4$  , $b \approx -2.3$ , $\sigma_k \approx 0.3$ , $\sigma_b \approx 0.6$ \\
+        \indent $k \approx 129.4$  , $b \approx -2.3$ , $\sigma_k \approx 0.3$ , $\sigma_b \approx 0.6$ , $u \approx 129.4$(м/c) \\
         
         \begin{center} 
             \includegraphics[width=5in]{m0.png} \\ \tiny{$m = 1042.3$}
         \end{center}
 
-        \item m = 548.0
+        \item m = 548.0g
             % \begin{table}[h]
                     % \caption{$\nu(n)$}
                     \begin{center}
@@ -106,16 +117,16 @@
                             \hline 
                                 $n$ & 0 & 1 & 2 & 3 & 4 & 5 \\
                             \hline
-                                $\nu_n$ [Гц] &0&101.1&203.1&303.5&400.0&493.6\\
+                                $f_n$ [Гц] &0&101.1&203.1&303.5&400.0&493.6\\
                             \hline
                     \end{tabular}
                     \end{center}
             % \end{table}
-            $k \approx 99.0$  , $b \approx 2.7$ , $\sigma_k \approx 0.7$ , $\sigma_b \approx 1.1$ \\
+            $k \approx 99.0$  , $b \approx 2.7$ , $\sigma_k \approx 0.7$ , $\sigma_b \approx 1.1$ , $k \approx 99.0$(м/c)\\
             \begin{center} 
                 \includegraphics[width=5in]{m1.png} \\ \tiny{$m = 548.0$}
             \end{center}
-        \item m = 1544.1
+        \item m = 1544.1g
             % \begin{table}[h]
                     % \caption{$\nu(n)$}
                     \begin{center}
@@ -123,16 +134,16 @@
                             \hline 
                                 $n$ & 0 & 1 & 2 & 3 & 4  \\
                             \hline
-                                $\nu_n$ [Гц] &0&166.0&331.9&498.0&668.1\\
+                                $f_n$ [Гц] &0&166.0&331.9&498.0&668.1\\
                             \hline
                     \end{tabular}
                     \end{center}
             % \end{table}
-            $k \approx 166.8$  , $b \approx -0.8$ , $\sigma_k \approx 0.4$ , $\sigma_b \approx 0.5$ \\
+            $k \approx 166.8$  , $b \approx -0.8$ , $\sigma_k \approx 0.4$ , $\sigma_b \approx 0.5$ , $u \approx 166.8$(м/c)\\
             \begin{center} 
                 \includegraphics[width=5in]{m2.png} \\ \tiny{$m = 1544.1$}
             \end{center}
-        \item m = 2009.0
+        \item m = 2009.0g
             % \begin{table}[h]
                     % \caption{$\nu(n)$}
                     \begin{center}
@@ -140,16 +151,16 @@
                             \hline 
                                 $n$ & 0 & 1 & 2 & 3 & 4  \\
                             \hline
-                                $\nu_n$ [Гц] &0&170.5&341.4&516.9&687.0\\
+                                $f_n$ [Гц] &0&170.5&341.4&516.9&687.0\\
                             \hline
                     \end{tabular}
                     \end{center}
             % \end{table}
-            $k \approx 172.0$  , $b \approx -0.9$ , $\sigma_k \approx 0.4 $ , $\sigma_b \approx 0.5$ \\
+            $k \approx 172.0$  , $b \approx -0.9$ , $\sigma_k \approx 0.4 $ , $\sigma_b \approx 0.5$ , $u \approx 172.0$(м/c)\\
             \begin{center} 
                 \includegraphics[width=5in]{m3.png} \\\tiny{$m = 2009.0$}
             \end{center}
-        \item m = 2514.5
+        \item m = 2514.5g
             % \begin{table}[h]
                     % \caption{$\nu(n)$}
                     \begin{center}
@@ -157,15 +168,29 @@
                             \hline 
                                 $n$ & 0 & 1 & 2 & 3 & 4  \\
                             \hline
-                                $\nu_n$ [Гц] &0&208.7&418.3&629.0&837.1\\
+                                $f_n$ [Гц] &0&208.7&418.3&629.0&837.1\\
                             \hline
                     \end{tabular}
                     \end{center}
             % \end{table}
-            $k \approx 209.5$  , $b \approx -0.3$ , $\sigma_k \approx 0.2$ , $\sigma_b \approx 0.2$ \\
+            $k \approx 209.5$  , $b \approx -0.3$ , $\sigma_k \approx 0.2$ , $\sigma_b \approx 0.2$ , $u \approx 209.5$(м/c)\\
             \begin{center} 
                 \includegraphics[width=5in]{m4.png} \\ \tiny{$m = 2514.5$}
             \end{center}
     \end{itemize}
-    
+    \item
+    Найдем зависимость $u^2(F)$ , $F = mg$ , $g \approx 9.81$, $\sigma_u \approx 0.5$, тогда $\sigma_u^2 = 2u \sigma_u \approx 129.4$
+    \begin{center} 
+                \includegraphics[width=5in]{u2.png} 
+    \end{center}
+    $y \approx 1688.9 x + 193.3$ , $\sigma_k \approx 145.0$ , $\sigma_b \approx 985.8$
+    \item Найдем погонную плотность струны
+    \begin{equation}
+        \rho_l = \frac{F}{u^2} = 1 / k
+    \end{equation}
+    $\rho_l \approx 0.59$ [g/m] , 
+    $\sigma_{\rho_l} = \frac{1}{k^2} \sigma_k \approx 0.05$ \\
+    \item
+       Указанная погонная плотность $\rho_{l_0} = 0.5684$ , значит разность ожидаемого и полученного значений укладывается в пределы погрешности.
+\end{enumerate}
 \end{document}

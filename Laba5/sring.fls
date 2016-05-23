@@ -149,6 +149,9 @@ INPUT ./m3.png
 INPUT m4.png
 INPUT ./m4.png
 INPUT ./m4.png
+INPUT u2.png
+INPUT ./u2.png
+INPUT ./u2.png
 INPUT sring.aux
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.6)  23 MAY 2016 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.6)  23 MAY 2016 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,94 +307,109 @@ File: string_img.png Graphic file (type png)
  <use string_img.png>
 Package pdftex.def Info: string_img.png used on input line 61.
 (pdftex.def)             Requested size: 252.94499pt x 152.05928pt.
- [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+[1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./strin
 g_img.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 81.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 81.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
 <m0.png, id=17, 1084.05pt x 505.89pt>
 File: m0.png Graphic file (type png)
  <use m0.png>
-Package pdftex.def Info: m0.png used on input line 98.
+Package pdftex.def Info: m0.png used on input line 109.
 (pdftex.def)             Requested size: 361.34999pt x 168.627pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 <m1.png, id=18, 1084.05pt x 505.89pt>
 File: m1.png Graphic file (type png)
  <use m1.png>
-Package pdftex.def Info: m1.png used on input line 116.
+Package pdftex.def Info: m1.png used on input line 127.
 (pdftex.def)             Requested size: 361.34999pt x 168.627pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+ [2 <./m0.png> <./m1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
-[2 <./m0.png> <./m1.png>] <m2.png, id=28, 1084.05pt x 505.89pt>
+<m2.png, id=28, 1084.05pt x 505.89pt>
 File: m2.png Graphic file (type png)
  <use m2.png>
-Package pdftex.def Info: m2.png used on input line 133.
+Package pdftex.def Info: m2.png used on input line 144.
 (pdftex.def)             Requested size: 361.34999pt x 168.627pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
 <m3.png, id=29, 1084.05pt x 505.89pt>
 File: m3.png Graphic file (type png)
  <use m3.png>
-Package pdftex.def Info: m3.png used on input line 150.
+Package pdftex.def Info: m3.png used on input line 161.
 (pdftex.def)             Requested size: 361.34999pt x 168.627pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
 <m4.png, id=30, 1084.05pt x 505.89pt>
 File: m4.png Graphic file (type png)
  <use m4.png>
-Package pdftex.def Info: m4.png used on input line 167.
+Package pdftex.def Info: m4.png used on input line 178.
 (pdftex.def)             Requested size: 361.34999pt x 168.627pt.
  [3 <./m2.png> <./m3.png>]
-[4 <./m4.png>] (./sring.aux) ) 
+<u2.png, id=36, 1084.05pt x 505.89pt>
+File: u2.png Graphic file (type png)
+ <use u2.png>
+Package pdftex.def Info: u2.png used on input line 184.
+(pdftex.def)             Requested size: 361.34999pt x 168.627pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[4 <./m4.png> <./u2.png>] (./sring.aux) ) 
 Here is how much of TeX's memory you used:
- 5137 strings out of 493089
- 68241 string characters out of 6134843
+ 5142 strings out of 493089
+ 68290 string characters out of 6134843
  135555 words of memory out of 5000000
- 8531 multiletter control sequences out of 15000+600000
+ 8535 multiletter control sequences out of 15000+600000
  14010 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,7n,26p,648b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvi
-ps/cm-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/s
-fbx1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfr
-m1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1
-200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm172
-8.pfb>
-Output written on sring.pdf (4 pages, 424281 bytes).
+{/usr/local/texlive/2015/texmf-dist/fo
+nts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/cm-super/sfbx1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/c
+m-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-
+super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-su
+per/sfrm1728.pfb>
+Output written on sring.pdf (4 pages, 467660 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

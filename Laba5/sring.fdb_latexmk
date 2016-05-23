@@ -1,11 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1464013495 "sring.tex" "sring.pdf" "sring" 1464013503
+["pdflatex"] 1464020047 "sring.tex" "sring.pdf" "sring" 1464020048
   "./m0.png" 1464012955 40212 935c784df63de96e0acc9aeb1746d2c3 ""
   "./m1.png" 1464012979 40486 738b3ab8ef421639aac78274f03c10d2 ""
   "./m2.png" 1464013013 42366 2b85ed657f0a7048d695515a1c7d7097 ""
   "./m3.png" 1464013051 43318 e887daee559b7bbdf86aab24ad5a274b ""
   "./m4.png" 1464013080 38668 6cc9d051d99125442e9a44ef0b1cfb9c ""
   "./string_img.png" 1462028068 175878 e07701a3b3138bedb4bd685d019e6ef5 ""
+  "./u2.png" 1464019039 49020 18bd29e92d683572763ea618b26ca143 ""
   "/Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1459806491 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/larm0500.tfm" 1459806224 3252 bc0f8cc163ba94bbce20e59f671a255d ""
   "/Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1456252656 3220 0e417eaf233b160335902e97259a6c77 ""
@@ -98,10 +99,11 @@
   "m2.png" 1464013013 42366 2b85ed657f0a7048d695515a1c7d7097 ""
   "m3.png" 1464013051 43318 e887daee559b7bbdf86aab24ad5a274b ""
   "m4.png" 1464013080 38668 6cc9d051d99125442e9a44ef0b1cfb9c ""
-  "sring.aux" 1464013496 186 d84bf62585b18c5b92804f4b0a9189f3 ""
-  "sring.tex" 1464013503 8920 9478ba4c42aa8768ee6d9ea6bdcd1f87 ""
+  "sring.aux" 1464020048 186 d84bf62585b18c5b92804f4b0a9189f3 ""
+  "sring.tex" 1464020046 10555 7561da4e358cc49767dd4510137d4f7f ""
   "string_img.png" 1462028068 175878 e07701a3b3138bedb4bd685d019e6ef5 ""
+  "u2.png" 1464019039 49020 18bd29e92d683572763ea618b26ca143 ""
   (generated)
-  "sring.pdf"
-  "sring.log"
   "sring.aux"
+  "sring.log"
+  "sring.pdf"
