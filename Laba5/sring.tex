@@ -55,12 +55,103 @@
 
     Если частота внешней поперечной синусоидальной силы совпадает с какой либо собственной частотой колебания струны, то возникает явление резонанса и образуется синусоидальная стоячая волна.
 
-    \textbf{В работе используются:} звуковои генератор, двухканальный осциллограф, частотомер, набор грузов, станина, с закрепленной на ней струной (Рис.1).
+    \textbf{В работе используются:} звуковои генератор, двухканальный осциллограф, частотомер, набор грузов, станина, с закрепленной на ней струной ($L = 50$ cm) (Рис.1).
 
     \begin{center} 
         \includegraphics[width=3.5in]{string_img.png} \\ Рис. 1: Экспериментальная установка.
     \end{center}
     
     \textbf{Ход работы:}\\
+         Будем нагружать струну различными массами, и измерять частоты нескольких гармоник стоячих волн.
+    Так как ожидаемая зависимость частоты $f\left(n\right)$ линейная, то построим аппроксимирующие по методу наименьших квадратов прямые вида $f = kn + b$ для каждой из нагрузок струны.
+    Произведем оценку ошибки:
+
+    \begin{equation}
+            \sigma_{k} \approx \frac{1}{\sqrt{n}}
+                \sqrt{\frac{\langle y^2 \rangle -  \langle y \rangle ^2}
+                        {\langle x^2 \rangle - \langle x \rangle ^2} 
+                    - k^2} 
+    \end{equation}
+
+    \begin{equation}
+            \sigma_{b} = \sigma_{k} \sqrt{\langle x^2 \rangle - \langle x \rangle ^2} 
+    \end{equation}
+    
+    \begin{itemize}
+        \item m = 1042.3
+            % \begin{table}[h]
+                    % \caption{$\nu(n)$}
+                    \begin{center}
+                    \begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+                            \hline 
+                                $n$ & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 \\
+                            \hline
+                                $\nu_n$ [Гц] &0&127.3&255.7&383.7&512.3&644.2&775.3&904.7\\
+                            \hline
+                    \end{tabular}
+                    \end{center}
+            % \end{table}
+
+        \indent $k \approx 129.4$  , $b \approx -2.3$ , $\sigma_k \approx 0.3$ , $\sigma_b \approx 0.6$ \\
+
+        \item m = 548.0
+            % \begin{table}[h]
+                    % \caption{$\nu(n)$}
+                    \begin{center}
+                    \begin{tabular}{|c|c|c|c|c|c|c|}
+                            \hline 
+                                $n$ & 0 & 1 & 2 & 3 & 4 & 5 \\
+                            \hline
+                                $\nu_n$ [Гц] &0&101.1&203.1&303.5&400.0&493.6\\
+                            \hline
+                    \end{tabular}
+                    \end{center}
+            % \end{table}
+            $k \approx 99.0$  , $b \approx 2.7$ , $\sigma_k \approx 0.7$ , $\sigma_b \approx 1.1$ \\
+        \item m = 1544.1
+            % \begin{table}[h]
+                    % \caption{$\nu(n)$}
+                    \begin{center}
+                    \begin{tabular}{|c|c|c|c|c|c|}
+                            \hline 
+                                $n$ & 0 & 1 & 2 & 3 & 4  \\
+                            \hline
+                                $\nu_n$ [Гц] &0&166.0&331.9&498.0&668.1\\
+                            \hline
+                    \end{tabular}
+                    \end{center}
+            % \end{table}
+            $k \approx 166.8$  , $b \approx -0.8$ , $\sigma_k \approx 0.4$ , $\sigma_b \approx 0.5$ \\
+
+        \item m = 2009.0
+            % \begin{table}[h]
+                    % \caption{$\nu(n)$}
+                    \begin{center}
+                    \begin{tabular}{|c|c|c|c|c|c|}
+                            \hline 
+                                $n$ & 0 & 1 & 2 & 3 & 4  \\
+                            \hline
+                                $\nu_n$ [Гц] &0&170.5&341.4&516.9&687.0\\
+                            \hline
+                    \end{tabular}
+                    \end{center}
+            % \end{table}
+            $k \approx 172.0$  , $b \approx -0.9$ , $\sigma_k \approx 0.4 $ , $\sigma_b \approx 0.5$ \\
+
+        \item m = 2514.5
+            % \begin{table}[h]
+                    % \caption{$\nu(n)$}
+                    \begin{center}
+                    \begin{tabular}{|c|c|c|c|c|c|}
+                            \hline 
+                                $n$ & 0 & 1 & 2 & 3 & 4  \\
+                            \hline
+                                $\nu_n$ [Гц] &0&208.7&418.3&629.0&837.1\\
+                            \hline
+                    \end{tabular}
+                    \end{center}
+            % \end{table}
+            $k \approx 209.5$  , $b \approx -0.3$ , $\sigma_k \approx 0.2$ , $\sigma_b \approx 0.2$ \\
+    \end{itemize}
     
 \end{document}

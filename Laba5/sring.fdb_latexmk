@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1462028303 "sring.tex" "sring.pdf" "sring" 1462028304
+["pdflatex"] 1464010661 "sring.tex" "sring.pdf" "sring" 1464010662
   "./string_img.png" 1462028068 175878 e07701a3b3138bedb4bd685d019e6ef5 ""
   "/Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1459806491 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1456252656 3220 0e417eaf233b160335902e97259a6c77 ""
@@ -29,6 +29,8 @@
   "/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
+  "/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb" 1215737283 145408 43d44302ca7d82d487f511f83e309505 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb" 1215737283 138258 6525c253f16cededa14c7fd0da7f67b2 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
@@ -56,6 +58,7 @@
   "/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty" 1362954379 2637 846ebe982d3549c7ede7ce135456f54a ""
   "/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls" 1428932888 20708 96f8bca6e380179cada1d49716376167 ""
   "/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty" 1428932888 5619 3f48adceb9004b3fefe24c2d2df7d98e ""
+  "/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd" 1428932888 2256 09a793cb810c26c97ed035dcd724a0d0 ""
   "/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo" 1428932888 9179 632e23fed01c842f2eaef1dd9953a446 ""
   "/usr/local/texlive/2015/texmf-dist/tex/latex/cyrillic/t2acmr.fd" 1428932888 2350 aea5ec15a9fc621f63498b8910478706 ""
   "/usr/local/texlive/2015/texmf-dist/tex/latex/cyrillic/t2aenc.def" 1428932888 12040 8e32bd761154bb49de9af8d0164b52dc ""
@@ -82,10 +85,10 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1441525720 3849858 17bab0f7112664b5d28b096495543ca3 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "sring.aux" 1462028304 186 d84bf62585b18c5b92804f4b0a9189f3 ""
-  "sring.tex" 1462028302 4092 bfa4e9fba275fb8eff51757f3d1ef89d ""
+  "sring.aux" 1464010662 186 d84bf62585b18c5b92804f4b0a9189f3 ""
+  "sring.tex" 1464010661 8287 35e37971523be3753cfdc5e16dd7f092 ""
   "string_img.png" 1462028068 175878 e07701a3b3138bedb4bd685d019e6ef5 ""
   (generated)
-  "sring.aux"
   "sring.pdf"
+  "sring.aux"
   "sring.log"
