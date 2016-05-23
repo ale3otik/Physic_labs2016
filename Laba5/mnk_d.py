@@ -16,3 +16,16 @@ sb = sk * ((np.mean(X**2) -  np.mean(X)**2))**0.5
 print(sk)
 print(sb)
 
+OY = [k * x + b for x in X]
+
+
+kr =  100
+plt.figure(figsize=(15,7))
+plt.grid(True)
+# plt.scatter(X, Y, s=100 ,marker='+', color='g')
+plt.plot(X,OY,'--r')
+plt.plot(X,Y,'-ob' , alpha=0.5)
+# plt.xlim([-0.1,len(X)-1 + 0.1])
+# plt.ylim([-10,Y[len(X)-1] + 100])
+plt.savefig('m4.png') 
+plt.show()
