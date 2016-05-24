@@ -55,7 +55,7 @@
     
     Если раскрутить гироскоп исходно только вокруг своейоси (т. е. $\vec{\Omega} = 0$), то вектор угловой скорости $\vec{\omega_0}$ также должен оставаться неизменным по модулю и направлению, а следовательно, и ось гироскопа ($\vec{s}$) должна сохранять свою ориентацию в пространстве при любом перемещении центра масс системы.
     \item Если же приложить к исходно уравновешенному гироскопу внешнюю силу с ненулевым моментом , то гироскоп придёт в движение, определяемое уравнением:
-    \begin{equation}
+    \begin{equation} \label{main}
         \vec{\Omega} \times \vec{L} = \vec{M}    
     \end{equation}
 
@@ -113,10 +113,40 @@
     \begin{center} 
         \includegraphics[width=6.5in]{graph.png} 
 
-        $y = kx + b$ , $k \approx 3.91$  , $b \approx 0.014$ , $\sigma_k \approx 0.23$ , $\sigma_b \approx 0.003$\\
+        $y = kx + b$ , $k \approx 0.39$  , $b \approx 0.014$ , $\sigma_k \approx 0.023$ , $\sigma_b \approx 0.002$\\
+        
     \end{center}
 
+    Из (\ref{main}) получим : 
+    $$\omega_0 = \frac{M}{I_0\Omega} = \frac{1}{k I_0} \approx 3.4 \cdot 10^3 \text{ рад/c}$$ 
+    $$\sigma_{\omega_0} = \omega_0 \sqrt{\left(\frac{\sigma_{\tg\alpha}}{\tg\alpha}\right)^2
+    + \left(\frac{\sigma_{I_0}}{I_0}\right)^2} \approx 0.2 \cdot 10^3 \text{рад/c} $$
+
+    \item
+    Частота, полученная с помощью звукового генератора : $\nu_{s} = 480$ Гц $\implies \omega_{s} = 2\pi\nu \approx 3015.9 \text{ рад/c}$\\
+    Что достаточно близко к полученному значению, с учетом погрешности.
+
+    \item Определим момент сил трения :
+    \begin{equation}
+        \Omega = \Omega_\text{hor} + \Omega_\text{ver} \implies
+        \vec{\Omega}_\text{hor} \times \vec{L} = \vec{M}_\text{тр}
+    \end{equation}
+
+    $$\Omega_\text{hor} = \frac{d}{dt} \varphi \text{, где }  \varphi \text{ - угол вертикального отклонения оси гироскопа } \vec{s} $$ 
     
+    \begin{center} 
+        \includegraphics[width=6.5in]{graph2.png} \\ $\Omega_{tr}(M)$ 
+    \end{center}
+
+    $$M_{tr} = \Omega_\text{tr} L$$
+    $L = 1 / k \implies M_{tr} = k\Omega_\text{tr}$
+
+    \begin{center} 
+        \includegraphics[width=6.5in]{graph3.png} \\ $\Omega_{tr}(M)$ 
+    \end{center}
+
+    Так как $\Omega_{tr} \ll \Omega \ll \omega_0$ ,то приближение о том, что весь момент импульса создается $\omega_0$ и направлен параллельно оси гироскопа, можно принять.
+
     \end{enumerate}
 
 

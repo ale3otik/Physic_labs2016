@@ -137,6 +137,12 @@ INPUT /Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/larm0500.tf
 INPUT graph.png
 INPUT ./graph.png
 INPUT ./graph.png
+INPUT graph2.png
+INPUT ./graph2.png
+INPUT ./graph2.png
+INPUT graph3.png
+INPUT ./graph3.png
+INPUT ./graph3.png
 INPUT gyroscope.aux
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb

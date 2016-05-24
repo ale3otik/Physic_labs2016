@@ -1,6 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1464050489 "gyroscope.tex" "gyroscope.pdf" "gyroscope" 1464050490
-  "./graph.png" 1464050199 29825 87fde06a5234b73125286dd21ea41d9b ""
+["pdflatex"] 1464069562 "gyroscope.tex" "gyroscope.pdf" "gyroscope" 1464069563
+  "./graph.png" 1464054913 29604 0d48cf8db714487c4d260f411c04f80a ""
+  "./graph2.png" 1464068707 22286 ef725957ed07252f2997a9a0969e9eb2 ""
+  "./graph3.png" 1464069255 21130 e737685a53d5d70c31bb649feb21d6f2 ""
   "./gy1.png" 1464042661 42176 e7b7fde3c1a8cf00c3cfd35f74fc5080 ""
   "./gy2.png" 1464042542 102082 9afdedba3a5d66389e5e1ce0f64d710c ""
   "/Users/alex/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1459806491 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
@@ -91,12 +93,14 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1441525720 3849858 17bab0f7112664b5d28b096495543ca3 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "graph.png" 1464050199 29825 87fde06a5234b73125286dd21ea41d9b ""
+  "graph.png" 1464054913 29604 0d48cf8db714487c4d260f411c04f80a ""
+  "graph2.png" 1464068707 22286 ef725957ed07252f2997a9a0969e9eb2 ""
+  "graph3.png" 1464069255 21130 e737685a53d5d70c31bb649feb21d6f2 ""
   "gy1.png" 1464042661 42176 e7b7fde3c1a8cf00c3cfd35f74fc5080 ""
   "gy2.png" 1464042542 102082 9afdedba3a5d66389e5e1ce0f64d710c ""
-  "gyroscope.aux" 1464050490 186 d84bf62585b18c5b92804f4b0a9189f3 ""
-  "gyroscope.tex" 1464050489 8055 4b86eb81629cd75e58e46e971fc74aa9 ""
+  "gyroscope.aux" 1464069563 210 6b916913e92f9164f2045f74fb479692 ""
+  "gyroscope.tex" 1464069561 9723 5685bdb9226ecbddf55db0dc0dca8559 ""
   (generated)
   "gyroscope.log"
-  "gyroscope.pdf"
   "gyroscope.aux"
+  "gyroscope.pdf"
